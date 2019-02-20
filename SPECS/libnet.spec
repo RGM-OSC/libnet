@@ -104,7 +104,7 @@ rm -rf $RPM_BUILD_ROOT
 %changelog
 
 * Wed Feb 20 2019 Samuel Ronciaux <samuel.ronciaux@gmail.com> - 1.1.6-0.rgm
-- Initial fork
+- Initial rgm fork
 
 * Tue Sep 29 2015 Jean-Philippe Levy <jeanphilippe.levy@gmail.com> - 1.1.6-0.eon
 - packaged for EyesOfNetwork appliance 4.2
