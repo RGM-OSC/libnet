@@ -1,7 +1,7 @@
 Summary:	C library for portable packet creation and injection
 Name:		libnet
 Version:	1.1.6
-Release:	0.eon
+Release:	0.rgm
 License:	BSD
 Group:		System Environment/Libraries
 URL:		http://www.sourceforge.net/projects/libnet-dev/
@@ -102,6 +102,10 @@ rm -rf $RPM_BUILD_ROOT
 %{_mandir}/man3/%{name}*.3*
 
 %changelog
+
+* Wed Feb 20 2019 Samuel Ronciaux <samuel.ronciaux@gmail.com> - 1.1.6-0.rgm
+- Initial fork
+
 * Tue Sep 29 2015 Jean-Philippe Levy <jeanphilippe.levy@gmail.com> - 1.1.6-0.eon
 - packaged for EyesOfNetwork appliance 4.2
 
