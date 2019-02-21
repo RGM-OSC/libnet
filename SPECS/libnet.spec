@@ -1,6 +1,6 @@
 Summary:	C library for portable packet creation and injection
-Name:		libnet
-Version:	1.1.6
+Name: libnet
+Version:1.1.6
 Release:	0.rgm
 License:	BSD
 Group:		System Environment/Libraries
